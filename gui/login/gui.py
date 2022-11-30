@@ -161,7 +161,7 @@ class Login(Toplevel):
             90.0,
             431.0,
             anchor="nw",
-            text="© Moneyball, 2021",
+            text="© Moneyball, 2022",
             fill="#FFFFFF",
             font=("Montserrat Bold", 18 * -1),
         )

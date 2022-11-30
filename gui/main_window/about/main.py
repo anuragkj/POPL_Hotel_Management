@@ -123,7 +123,7 @@ class About(Frame):
             197.0,
             352.0,
             anchor="nw",
-            text="© 2021-22 Moneyball, All rights reserved",
+            text="© 2022-23 Moneyball, All rights reserved",
             fill="#5E95FF",
             font=("Montserrat Bold", 16 * -1),
         )
