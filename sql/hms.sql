@@ -1,9 +1,3 @@
--- MySQL dump 10.13  Distrib 8.0.26, for macos11.4 (arm64)
---
--- Host: mohityadav.codes    Database: hms
--- ------------------------------------------------------
--- Server version	5.5.5-10.5.12-MariaDB-0ubuntu0.21.04.1
-
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
